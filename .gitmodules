@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/tipobrata/tipobrata.github.io.git
 	branch = master
+[submodule "repo"]
+	path = repo
+	url = https://github.com/tipobrata/tipobrata.github.io.git
+	branch = master
