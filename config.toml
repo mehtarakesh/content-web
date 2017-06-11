@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://tipobrata.github.io"
 title = "home"
 theme = "oteke"
 languageCode = "en-us"
