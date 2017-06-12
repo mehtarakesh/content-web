@@ -73,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/tags/angular/</loc>
+    <loc>https://tipobrata.github.io/categories/angular/</loc>
     <lastmod>2017-03-26T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/categories/angular/</loc>
+    <loc>https://tipobrata.github.io/tags/angular/</loc>
     <lastmod>2017-03-26T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -115,13 +115,13 @@
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/tags/ionic/</loc>
+    <loc>https://tipobrata.github.io/categories/ionic/</loc>
     <lastmod>2017-02-06T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/categories/ionic/</loc>
+    <loc>https://tipobrata.github.io/tags/ionic/</loc>
     <lastmod>2017-02-06T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -133,25 +133,25 @@
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/tags/linux/</loc>
-    <lastmod>2017-05-22T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tipobrata.github.io/categories/linux/</loc>
     <lastmod>2017-05-22T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/tags/loopback/</loc>
-    <lastmod>2017-05-21T21:49:20+02:00</lastmod>
+    <loc>https://tipobrata.github.io/tags/linux/</loc>
+    <lastmod>2017-05-22T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tipobrata.github.io/categories/loopback/</loc>
+    <lastmod>2017-05-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tipobrata.github.io/tags/loopback/</loc>
     <lastmod>2017-05-21T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -163,13 +163,13 @@
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/tags/material/</loc>
+    <loc>https://tipobrata.github.io/categories/material/</loc>
     <lastmod>2017-03-10T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tipobrata.github.io/categories/material/</loc>
+    <loc>https://tipobrata.github.io/tags/material/</loc>
     <lastmod>2017-03-10T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
